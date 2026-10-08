@@ -1,4 +1,0 @@
-Nombre: Alison 
-Apellido: Bejarano Fuertes
-Grupo: Sistema de Análisis Estadístico de Uso de Red Universitaria
-Rol o Responsabilidad Principal: Programación 
