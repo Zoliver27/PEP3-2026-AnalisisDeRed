@@ -1,4 +1,0 @@
-Nombre: Camila Isabella
-Apellido: Andia Sánchez 
-Grupo: Sistema de Análisis Estadístico de Uso Red Universitaria  
-Rol o responsabilidad principal: Programacion, BugFixer
