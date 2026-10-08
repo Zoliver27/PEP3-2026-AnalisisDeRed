@@ -426,3 +426,17 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+
+# Datos locales o sensibles del proyecto
+.env
+.env.*
+!.env.example
+data/raw/
+data/private/
+data/**/*.xlsx
+data/**/*.xls
+data/**/*.csv
+!data/samples/**/*.csv
+!data/samples/**/*.xlsx
+!data/samples/**/*.xls
