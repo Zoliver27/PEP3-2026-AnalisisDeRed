@@ -1,0 +1,4 @@
+Nombre: Oliver Matías
+Apellido: Zunagua Arce
+Grupo: Sistema de Análisis Estadístico de Uso de Red Universitaria
+Rol o Responsabilidad Principal: Líder, FrontEnd
